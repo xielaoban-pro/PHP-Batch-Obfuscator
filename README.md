@@ -235,6 +235,8 @@ dist/sdczz_encryptor.exe
 
 - 🌐 官网：[sdczz.com](https://sdczz.com)
 - 📮 反馈：提交 GitHub Issue
+- 声达多应用授权php程序
+- https://www.sdczz.com/downloads/shengdaphpsq
 
 ---
 
@@ -245,3 +247,4 @@ dist/sdczz_encryptor.exe
 ---
 
 **声明**：本工具仅供合法的软件保护用途，请勿用于非法目的。使用者需自行承担法律责任。
+
