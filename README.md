@@ -8,6 +8,12 @@
 > 支持多级混淆强度、批量处理、无需扩展依赖的纯 PHP 加密方案
 
 ---
+✨ 成品下载链接
+https://pan.quark.cn/s/6d423d61f5af
+
+声达多应用授权php程序
+
+https://www.sdczz.com/downloads/shengdaphpsq
 
 ## ✨ 项目特色
 
@@ -17,7 +23,9 @@
 - 💾 **配置记忆**：自动保存上次使用的路径和加密模式
 - 🎯 **智能注释处理**：可选保留版权注释或完全清理
 - 🔧 **双模式运行**：支持交互式 GUI 和命令行批量操作
-
+- 🛡️这两个项目可以考虑搭配使用
+- 🛡️https://github.com/xielaoban-pro/Component-Batch-Encryptor
+- 🛡️https://github.com/xielaoban-pro/PHP-Batch-Obfuscator
 ---
 
 ## 📋 加密模式详解
